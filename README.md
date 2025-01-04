@@ -1,5 +1,5 @@
 # Stolen Vehicles Analysis Dashboard (Power BI)
-This project presents a comprehensive analysis of vehicle thefts using Power BI dashboards. The analysis leverages a dataset sourced from Maven Analytics and provides visual insights into trends, patterns, and regional specifics related to vehicle thefts over a six-month period (2021-22).
+This project presents a comprehensive analysis of vehicle thefts using Power BI dashboards. The analysis leverages a dataset sourced from Maven Analytics and provides visual insights into trends, patterns, and regional specifics related to vehicle thefts over a six-month period (2021-22) in New Zealand.
 
 ## Dataset Overview
 The project utilizes the following main tables:
